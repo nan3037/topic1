@@ -1,0 +1,33 @@
+
+body
+{
+    background-color: rgba(0, 225, 255, 0.856);
+}
+
+h1
+{
+    color: plum;
+    font-family: 'Verdana', Courier, monospace;
+    text-align: center;
+}
+
+h2
+{
+    color: grey;
+    font-family:'Lucida Sans', Courier, monospace;
+    text-align: left;
+}
+
+p
+{
+    color: rgb(97, 62, 22);
+    font-family:'Verdana', Courier, monospace;
+    text-align: justify;
+}
+
+ul
+{
+    color: rgb(63, 38, 10);
+    font-family:'Sans Serif', arial, helvetica;
+    text-align: left;
+}
